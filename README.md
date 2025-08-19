@@ -7,6 +7,9 @@
 - Learning web dev
 - Fitness Enjoyer
 - Sleep Deprived
+- Current Corporate Slave
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ceres_nakano?ext=contest)
 
 ---
 ### 🌐 Connect with Me
@@ -39,6 +42,6 @@
   <strong>“The hardest work in the world is being out of work.”</strong><br/>
   <em>– Whitney M. Young</em><br/>
   <br/>
-  <sub><sup>(Honestly, updating my GitHub profile felt like a full-time job...)</sup></sub>
+  <sub><sup>(Honestly, doomscrolling on LinkedIn felt like a full-time job...)</sup></sub>
 </blockquote>
 
