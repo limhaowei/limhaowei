@@ -9,6 +9,8 @@
 - Sleep Deprived
 
 ---
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/hao-wei-lim-55b173233/)
 
 ### 🧰 Stuff I've Used Before
 
@@ -30,6 +32,13 @@
 # I NEED JOB!!!!!!!!!
 
 <p align="center">
-  <img src= />
+  <img src= ./github.png  />
 </p>
+
+<blockquote align="center">
+  <strong>“The hardest work in the world is being out of work.”</strong><br/>
+  <em>– Whitney M. Young</em><br/>
+  <br/>
+  <sub><sup>(Honestly, updating my GitHub profile felt like a full-time job...)</sup></sub>
+</blockquote>
 
