@@ -5,9 +5,7 @@
 ### 👨‍💻 About Me
 - Computer Science Graduate (unfortunately)
 - Learning web dev
-- Fitness Enjoyer
-- Sleep Deprived
-- Current Corporate Slave
+- STUCK IN BURKINA FASO
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ceres_nakano?ext=contest)
 
