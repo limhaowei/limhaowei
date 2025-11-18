@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - Computer Science Graduate (unfortunately)
 - Learning web dev
-- STUCK IN BURKINA FASO
+- BURKINA FASO MY BELOVED
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ceres_nakano?ext=contest)
 
@@ -40,6 +40,6 @@
   <strong>“The hardest work in the world is being out of work.”</strong><br/>
   <em>– Whitney M. Young</em><br/>
   <br/>
-  <sub><sup>(Honestly, doomscrolling on LinkedIn felt like a full-time job...)</sup></sub>
+  <sub>(Honestly, doomscrolling on LinkedIn felt like a full-time job...)</sub>
 </blockquote>
 
