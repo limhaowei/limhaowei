@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - Computer Science Graduate (unfortunately)
 - Learning web dev
 - Current location: Burkina Faso
@@ -10,10 +10,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ceres_nakano?ext=contest)
 
 ---
-### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/hao-wei-lim-55b173233/)
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/hao-wei-lim-55b173233/)
 
-### 🧰 Stuff I've Used Before
+### Stuff I've Used Before
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
