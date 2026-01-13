@@ -3,9 +3,9 @@
 ---
 
 ### About Me
-- Computer Science Graduate (unfortunately)
-- Learning web dev
-- Current location: Burkina Faso
+- computer science graduate
+- learning web dev
+- loves going to the gym
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ceres_nakano?ext=contest)
 
